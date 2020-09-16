@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "9018dceb24c1fe9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "937735cc35df7541",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1-DSM/Posttraumatic Stress Disorder (PTSD).md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4dfe03ea3adc8cae",
+    "type": "split",
+    "children": [
+      {
+        "id": "a64d9808dc77eaad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e02c3e801551cdbe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "466acc6e53327ff6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#adults"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2682f92c634fbd69",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8436beb87ff24a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f04ed26f1948ba2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-DSM/Posttraumatic Stress Disorder (PTSD).md"
+              }
+            }
+          },
+          {
+            "id": "19886ba428f4d751",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "2fa2fe8a1ef66f45",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-DSM/Posttraumatic Stress Disorder (PTSD).md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "1-DSM/Posttraumatic Stress Disorder (PTSD).md",
+    "1-DSM/event.md",
+    "Zotero-library/PDFs/American Psychiatric Association/American Psychiatric Association_2013_Diagnostic and statistical manual of mental disorders2.pdf",
+    "Zotero-library/MDnotes/americanpsychiatricassociation_2013_DiagnosticStatisticalManual-zotero.md",
+    "Zotero-library/MDnotes/charles_2003_AgingEmotionalMemory-zotero.md",
+    "Zotero-library/MDnotes/tryon_2014_CognitiveNeurosciencePsychotherapy-zotero.md",
+    "Zotero-library/MDnotes/Zotero Import.md",
+    "Zotero-library/mdnotes/charles_2003_AgingEmotionalMemory-zotero.md",
+    "Zotero-library/mdnotes/Zotero Import.md",
+    "1-DSM/Untitled.md"
+  ]
+}

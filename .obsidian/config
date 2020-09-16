@@ -1,0 +1,34 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "command-palette": true,
+    "markdown-importer": true,
+    "word-count": true,
+    "tag-pane": true,
+    "page-preview": true,
+    "outline": true,
+    "daily-notes": true,
+    "slides": true,
+    "audio-recorder": true,
+    "open-with-default-app": true,
+    "templates": true,
+    "translucency": false
+  },
+  "useMarkdownLinks": false,
+  "strictLineBreaks": true,
+  "spellcheck": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "Obsidian attachments",
+  "spellcheckDictionary": [
+    "responders",
+    "aversive"
+  ]
+}

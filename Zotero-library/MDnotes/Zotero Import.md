@@ -1,0 +1,1 @@
+[[Posttraumatic Stress Disorder (PTSD)#A Exposure to actual or threatened death serious injury or sexual violence in one or more of the following ways]]
