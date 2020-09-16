@@ -1,4 +1,7 @@
 # Diagnostic Criteria (>6)
+
+[![hackmd-github-sync-badge](https://hackmd.io/-ryOrtSXSVWutieAulHxpg/badge)](https://hackmd.io/-ryOrtSXSVWutieAulHxpg)
+
 309.81 (F43.10)
 Posttraumatic Stress Disorder
 
